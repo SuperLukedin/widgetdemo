@@ -1243,7 +1243,7 @@ preloader
 @media (max-width: 450px) {
 	.unpakt-widget {
     width: 83vw;
-    height: 43vh;
+    height: 48vh;
 	}
 }
 @media (max-width: 1080px) {
