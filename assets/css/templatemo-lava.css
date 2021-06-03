@@ -1239,3 +1239,16 @@ preloader
   width: 27vw;
   height: 30vh;
 }
+
+@media (max-width: 450px) {
+	.unpakt-widget {
+    width: 83vw;
+    height: 43vh;
+	}
+}
+@media (max-width: 1080px) {
+	.unpakt-widget {
+    width: 83vw;
+    height: 38vh;
+	}
+}
